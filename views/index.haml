@@ -1,0 +1,47 @@
+!!!
+%html{ 'ng-app' => 'oracle' }
+  %head
+    %script{type: "text/javascript", src: '/js/angular.min.js'}
+    %script{type: "text/javascript", src: '/js/main.js'}
+    %link{ 'rel' => "stylesheet", 'href' => "/css/style.css" }
+    %link{ 'rel' => "stylesheet", 'href' => "https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" }
+  %body
+    .container{ 'ng-controller' => 'ctrl' }
+      %h1
+        The Oracle is Present
+      %form.distance-container.form-inline{ 'ng-submit' => 'refresh()' }
+        .form-group
+          %label.control-label
+            Radius in km
+          %input.form-control{ 'ng-model' => 'distance', type: 'text', style: 'width: 55px; margin-left: 15px;' }
+        %input.btn.btn-primary{ type: 'submit' }
+        .loader{ 'ng-show' => 'showLoader' }
+          %img{ src: '/img/ajax-loader.gif' }
+      .table-container
+        %table.table.table-striped
+          %thead
+            %tr
+              %th Time
+              %th User
+              %th Name
+              %th Description
+              %th Tweet
+              %th Location
+
+          %tbody
+            %tr{ 'ng-repeat' => 'post in posts' }
+              %td
+                {{ post.time }}
+              %td
+                {{ post.user }}
+              %td
+                %a{ href: 'https://www.google.com/search?q="{{ post.name_q }}"', target: '_blank' }
+                  {{ post.name }}
+              %td
+                {{ post.description }}
+              %td
+                %a{ href: '{{ post.url }}', target: '_blank' }
+                  {{ post.text }}
+              %td
+                %a{ href: 'https://maps.googleapis.com/maps/api/geocode/json?latlng={{ post.location.lat }},{{ post.location.lon }}', target: '_blank' }
+                  {{ post.location.lat }}, {{ post.location.lon }}

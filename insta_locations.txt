@@ -1,0 +1,141 @@
+HTTP/1.1 200 OK
+Content-Language:en
+X-Ratelimit-Limit:5000
+Vary:Cookie, Accept-Language, Accept-Encoding
+Date:Thu, 09 Oct 2014 22:34:46 GMT
+Content-Length:1825
+Expires:Sat, 01 Jan 2000 00:00:00 GMT
+X-Ratelimit-Remaining:4999
+Content-Type:application/json; charset=utf-8
+Server:nginx
+Pragma:no-cache
+Cache-Control:private, no-cache, no-store, must-revalidate
+Set-Cookie:****
+
+{
+  "meta": {
+    "code": 200
+  },
+  "data": [
+    {
+      "latitude": 40.737190247,
+      "id": "5792253",
+      "longitude": -73.995574951,
+      "name": "L Train Hell"
+    },
+    {
+      "latitude": 40.73716,
+      "id": "76395583",
+      "longitude": -73.995628,
+      "name": "DC 9"
+    },
+    {
+      "latitude": 40.737209,
+      "id": "240769064",
+      "longitude": -73.995743,
+      "name": "Golden Krust 47 W. 14th Street"
+    },
+    {
+      "latitude": 40.737209,
+      "id": "70902908",
+      "longitude": -73.995743,
+      "name": "Ardor New York Real Estate"
+    },
+    {
+      "latitude": 40.737209,
+      "id": "361862227",
+      "longitude": -73.995743,
+      "name": "24 7 Fitness Club"
+    },
+    {
+      "latitude": 40.7372437,
+      "id": "242173226",
+      "longitude": -73.995763501,
+      "name": "((305)) Fitness"
+    },
+    {
+      "latitude": 40.73708,
+      "id": "1472351",
+      "longitude": -73.99543,
+      "name": "Wigs and Plus"
+    },
+    {
+      "latitude": 40.73712848,
+      "id": "67831277",
+      "longitude": -73.99576924,
+      "name": "NYC's home"
+    },
+    {
+      "latitude": 40.737019984,
+      "id": "423665",
+      "longitude": -73.995614293,
+      "name": "14th Street"
+    },
+    {
+      "latitude": 40.737257,
+      "id": "307062889",
+      "longitude": -73.995844,
+      "name": "Cigarville Inc"
+    },
+    {
+      "latitude": 40.73720155,
+      "id": "10542893",
+      "longitude": -73.995872538,
+      "name": "Jack Rabbits"
+    },
+    {
+      "latitude": 40.737447,
+      "id": "75060912",
+      "longitude": -73.995485,
+      "name": "Oculus Condominium"
+    },
+    {
+      "latitude": 40.737061321,
+      "id": "107355827",
+      "longitude": -73.995803673,
+      "name": "toosh"
+    },
+    {
+      "latitude": 40.736972,
+      "id": "239033606",
+      "longitude": -73.995543,
+      "name": "Potbelly Sandwich Shop"
+    },
+    {
+      "latitude": 40.736996,
+      "id": "361809379",
+      "longitude": -73.995421,
+      "name": "Big D Retail LLC"
+    },
+    {
+      "latitude": 40.736996,
+      "id": "298941635",
+      "longitude": -73.995421,
+      "name": "NYC Living"
+    },
+    {
+      "latitude": 40.736996,
+      "id": "319255578",
+      "longitude": -73.995421,
+      "name": "New York Television Festival"
+    },
+    {
+      "latitude": 40.736996,
+      "id": "342815168",
+      "longitude": -73.995421,
+      "name": "Pirate Promotions Management"
+    },
+    {
+      "latitude": 40.736996,
+      "id": "341657573",
+      "longitude": -73.995421,
+      "name": "Sound Generation Inc"
+    },
+    {
+      "latitude": 40.736996,
+      "id": "95824515",
+      "longitude": -73.995421,
+      "name": "RA Travel"
+    }
+  ]
+}

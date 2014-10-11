@@ -1,0 +1,1827 @@
+{
+meta: {
+code: 200
+}
+notifications: [
+{
+type: "notificationTray"
+item: {
+unreadCount: 0
+}
+}
+]
+response: {
+venues: [
+{
+id: "4a0f35e8f964a52040761fe3"
+name: "New York Sports Club"
+contact: {
+phone: "2123379900"
+formattedPhone: "(212) 337-9900"
+}
+location: {
+address: "34A W 14th St"
+crossStreet: "btwn 5th & 6th Ave"
+lat: 40.73689922204803
+lng: -73.99542491401064
+distance: 37
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"34A W 14th St (btwn 5th & 6th Ave)"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d176941735"
+name: "Gym"
+pluralName: "Gyms"
+shortName: "Gym"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/building/gym_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: false
+stats: {
+checkinsCount: 18391
+usersCount: 2358
+tipCount: 45
+}
+url: "http://www.mysportsclubs.com"
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 1
+summary: "One person is checked in here"
+groups: [
+{
+type: "others"
+name: "Other people here"
+count: 1
+items: [ ]
+}
+]
+}
+referralId: "v-1413063446"
+}
+{
+id: "4d1266ff12916dcb8daad58a"
+name: "Bourbon Coffee NY"
+contact: {
+phone: "2126755552"
+formattedPhone: "(212) 675-5552"
+twitter: "bourboncoffeeus"
+facebook: "137426759660914"
+facebookUsername: "BourbonCoffeeUSA"
+facebookName: "Bourbon Coffee USA"
+}
+location: {
+address: "43 W 14th St"
+crossStreet: "at 6th Ave."
+lat: 40.73690276598786
+lng: -73.99580367275166
+distance: 40
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"43 W 14th St (at 6th Ave.)"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d1e0931735"
+name: "Coffee Shop"
+pluralName: "Coffee Shops"
+shortName: "Coffee Shop"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: true
+stats: {
+checkinsCount: 9749
+usersCount: 4422
+tipCount: 124
+}
+url: "http://www.bourboncoffeeusa.com"
+hasMenu: true
+ratingColor: "C7CDCF"
+delivery: {
+url: "http://www.seamless.com/food-delivery/restaurant.37187.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink"
+provider: {
+name: "seamless"
+}
+}
+menu: {
+type: "Menu"
+label: "Menu"
+anchor: "View Menu"
+url: "https://foursquare.com/v/bourbon-coffee-ny/4d1266ff12916dcb8daad58a/menu"
+mobileUrl: "https://foursquare.com/v/4d1266ff12916dcb8daad58a/device_menu"
+}
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 2
+summary: "2 people are checked in here"
+groups: [
+{
+type: "others"
+name: "Other people here"
+count: 2
+items: [ ]
+}
+]
+}
+storeId: ""
+referralId: "v-1413063446"
+}
+{
+id: "4a66352af964a52034c81fe3"
+name: "Party City"
+contact: {
+phone: "2122717310"
+formattedPhone: "(212) 271-7310"
+}
+location: {
+address: "38 W 14th St"
+crossStreet: "at 6th Ave."
+lat: 40.73698341524972
+lng: -73.99541917523608
+distance: 28
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"38 W 14th St (at 6th Ave.)"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d128951735"
+name: "Gift Shop"
+pluralName: "Gift Shops"
+shortName: "Gift Shop"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/shops/giftshop_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: true
+stats: {
+checkinsCount: 5504
+usersCount: 4089
+tipCount: 13
+}
+url: "http://www.partycity.com"
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 1
+summary: "One person is checked in here"
+groups: [
+{
+type: "others"
+name: "Other people here"
+count: 1
+items: [ ]
+}
+]
+}
+storeId: ""
+referralId: "v-1413063446"
+}
+{
+id: "4a47b1c8f964a520f8a91fe3"
+name: "JackRabbit Sports"
+contact: {
+phone: "2127272980"
+formattedPhone: "(212) 727-2980"
+twitter: "jackrabbitnyc"
+}
+location: {
+address: "42 W 14th St"
+crossStreet: "btwn 5th & 6th Ave."
+lat: 40.73690898916683
+lng: -73.99552821192333
+distance: 34
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"42 W 14th St (btwn 5th & 6th Ave.)"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d1f2941735"
+name: "Sporting Goods Shop"
+pluralName: "Sporting Goods Shops"
+shortName: "Sporting Goods"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: false
+stats: {
+checkinsCount: 5427
+usersCount: 3202
+tipCount: 35
+}
+url: "http://jackrabbitsports.com"
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 1
+summary: "One person is checked in here"
+groups: [
+{
+type: "others"
+name: "Other people here"
+count: 1
+items: [ ]
+}
+]
+}
+referralId: "v-1413063446"
+}
+{
+id: "4f9e99f7e4b06064311cf82e"
+name: "Body Space Fitness Inc"
+contact: {
+phone: "6466844912"
+formattedPhone: "(646) 684-4912"
+twitter: "bodyspacenyc"
+facebook: "283128798426551"
+facebookUsername: "BodySpaceFitness"
+facebookName: "Body Space Fitness"
+}
+location: {
+address: "47 W 14th St"
+crossStreet: "Btwn 5th & 6th Ave"
+lat: 40.7371490586792
+lng: -73.99578071769776
+distance: 19
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"47 W 14th St (Btwn 5th & 6th Ave)"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d175941735"
+name: "Gym / Fitness Center"
+pluralName: "Gyms or Fitness Centers"
+shortName: "Gym / Fitness"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/building/gym_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: true
+stats: {
+checkinsCount: 1048
+usersCount: 218
+tipCount: 5
+}
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+venuePage: {
+id: "57023204"
+}
+storeId: ""
+referralId: "v-1413063446"
+}
+{
+id: "44aca0c7f964a52012351fe3"
+name: "CLAY Health Club + Spa"
+contact: {
+phone: "2122069200"
+formattedPhone: "(212) 206-9200"
+twitter: "clay_healthclub"
+}
+location: {
+address: "25 W 14th St"
+crossStreet: "btwn 5th & 6th Ave."
+lat: 40.736754595115876
+lng: -73.99521589279175
+distance: 59
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"25 W 14th St (btwn 5th & 6th Ave.)"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d176941735"
+name: "Gym"
+pluralName: "Gyms"
+shortName: "Gym"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/building/gym_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: true
+stats: {
+checkinsCount: 8769
+usersCount: 969
+tipCount: 26
+}
+url: "http://www.insideclay.com"
+hasMenu: true
+ratingColor: "C7CDCF"
+menu: {
+type: "Services"
+label: "Services"
+anchor: "View Services"
+url: "https://foursquare.com/v/clay-health-club--spa/44aca0c7f964a52012351fe3/menu"
+mobileUrl: "https://foursquare.com/v/44aca0c7f964a52012351fe3/device_menu"
+}
+specials: {
+count: 1
+items: [
+{
+id: "4d2f38a4b293594105695d76"
+type: "frequency"
+message: "Receive $20 off  your very first Spa service or Private Training/ Pilates session at CLAY!"
+description: ""
+unlocked: true
+icon: "default"
+title: "Special"
+state: "unlocked"
+provider: "foursquare"
+redemption: "webview"
+interaction: {
+entryUrl: "https://foursquare.com/device/specials/4d2f38a4b293594105695d76?venueId=44aca0c7f964a52012351fe3"
+}
+}
+]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+venuePage: {
+id: "90480780"
+}
+referralId: "v-1413063446"
+}
+{
+id: "52c5f41a498ecaf3fb78a9fe"
+name: "Flex Studios"
+contact: { }
+location: {
+lat: 40.73700521144999
+lng: -73.99592992549903
+distance: 38
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"New York, NY"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d175941735"
+name: "Gym / Fitness Center"
+pluralName: "Gyms or Fitness Centers"
+shortName: "Gym / Fitness"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/building/gym_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: false
+stats: {
+checkinsCount: 221
+usersCount: 77
+tipCount: 1
+}
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+referralId: "v-1413063446"
+}
+{
+id: "532b56f4498eb536addb0a49"
+name: "Dairy Queen Grill & Chill"
+contact: {
+twitter: "dairyqueen"
+}
+location: {
+address: "54 W 14th St"
+crossStreet: "btwn 5th & 6th Ave"
+lat: 40.736876
+lng: -73.996194
+distance: 65
+postalCode: "10011-7501"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"54 W 14th St (btwn 5th & 6th Ave)"
+"New York, NY 10011-7501"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d16e941735"
+name: "Fast Food Restaurant"
+pluralName: "Fast Food Restaurants"
+shortName: "Fast Food"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/food/fastfood_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: true
+stats: {
+checkinsCount: 1963
+usersCount: 1576
+tipCount: 19
+}
+url: "http://blog.dairyqueen.com"
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 1
+summary: "One person is checked in here"
+groups: [
+{
+type: "others"
+name: "Other people here"
+count: 1
+items: [ ]
+}
+]
+}
+storeId: ""
+referralId: "v-1413063446"
+}
+{
+id: "4fd8c8dce4b00acf82472dec"
+name: "Potbelly Sandwich Shop"
+contact: {
+phone: "6462894209"
+formattedPhone: "(646) 289-4209"
+twitter: "potbelly"
+facebook: "6919504147"
+facebookUsername: "potbellysandwichshop"
+facebookName: "Potbelly Sandwich Shop"
+}
+location: {
+address: "41 W 14th St"
+lat: 40.736972827756986
+lng: -73.99579219522506
+distance: 33
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"41 W 14th St"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d1c5941735"
+name: "Sandwich Place"
+pluralName: "Sandwich Places"
+shortName: "Sandwiches"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/food/deli_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: true
+stats: {
+checkinsCount: 2275
+usersCount: 1351
+tipCount: 18
+}
+url: "http://www.potbelly.com"
+ratingColor: "C7CDCF"
+delivery: {
+url: "http://www.seamless.com/food-delivery/restaurant.24017.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink"
+provider: {
+name: "seamless"
+}
+}
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+storeId: "267"
+referralId: "v-1413063446"
+}
+{
+id: "4a1c91b1f964a520527b1fe3"
+name: "Starbucks"
+contact: {
+phone: "2122425981"
+formattedPhone: "(212) 242-5981"
+twitter: "starbucks"
+facebook: "22092443056"
+facebookUsername: "Starbucks"
+facebookName: "Starbucks"
+}
+location: {
+address: "510 6th Ave"
+crossStreet: "at W 14th St"
+lat: 40.736866
+lng: -73.996331
+distance: 75
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"510 6th Ave (at W 14th St)"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d1e0931735"
+name: "Coffee Shop"
+pluralName: "Coffee Shops"
+shortName: "Coffee Shop"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: true
+stats: {
+checkinsCount: 11182
+usersCount: 4762
+tipCount: 36
+}
+url: "http://www.starbucks.com/store/8919/"
+hasMenu: true
+ratingColor: "C7CDCF"
+menu: {
+type: "Menu"
+label: "Menu"
+anchor: "View Menu"
+url: "https://foursquare.com/v/starbucks/4a1c91b1f964a520527b1fe3/menu"
+mobileUrl: "https://foursquare.com/v/4a1c91b1f964a520527b1fe3/device_menu"
+externalUrl: "http://www.starbucks.com/menu"
+}
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 2
+summary: "2 people are checked in here"
+groups: [
+{
+type: "others"
+name: "Other people here"
+count: 2
+items: [ ]
+}
+]
+}
+storeId: "7675"
+referralId: "v-1413063446"
+}
+{
+id: "522e4ee0498e32b78db7fbe1"
+name: "Painting Lounge"
+contact: {
+phone: "2125181803"
+formattedPhone: "(212) 518-1803"
+twitter: "paintinglounge"
+}
+location: {
+address: "39 W 14th St Ste 401"
+crossStreet: "btwn 5th and 6th Ave."
+lat: 40.73692719030451
+lng: -73.99543639155924
+distance: 33
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"39 W 14th St Ste 401 (btwn 5th and 6th Ave.)"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d127951735"
+name: "Arts & Crafts Store"
+pluralName: "Arts & Crafts Stores"
+shortName: "Arts & Crafts"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/shops/artstore_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: false
+stats: {
+checkinsCount: 390
+usersCount: 370
+tipCount: 6
+}
+url: "http://www.paintinglounge.com"
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+referralId: "v-1413063446"
+}
+{
+id: "51fd5693498ebbf735fee35b"
+name: "Five Guys"
+contact: {
+phone: "2126752229"
+formattedPhone: "(212) 675-2229"
+twitter: "five_guys"
+facebook: "19836964440"
+facebookUsername: "fiveguys"
+facebookName: "Five Guys Burgers and Fries"
+}
+location: {
+address: "56 W 14th St"
+lat: 40.73716585443059
+lng: -73.9962627732525
+distance: 59
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"56 W 14th St"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d16c941735"
+name: "Burger Joint"
+pluralName: "Burger Joints"
+shortName: "Burgers"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/food/burger_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: true
+stats: {
+checkinsCount: 1029
+usersCount: 774
+tipCount: 7
+}
+url: "http://www.fiveguys.com"
+ratingColor: "C7CDCF"
+delivery: {
+url: "http://www.seamless.com/food-delivery/restaurant.29791.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink"
+provider: {
+name: "seamless"
+}
+}
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+storeId: "1620 - New York (W. 14th Street)"
+referralId: "v-1413063446"
+}
+{
+id: "4b4cb795f964a5209cbb26e3"
+name: "Qi Esarn Thai Kitchen"
+contact: {
+phone: "2129299917"
+formattedPhone: "(212) 929-9917"
+twitter: "qinyc"
+}
+location: {
+address: "31 W 14th St"
+crossStreet: "Between 5th & 6th Ave"
+lat: 40.736819
+lng: -73.995148
+distance: 56
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"31 W 14th St (Between 5th & 6th Ave)"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d149941735"
+name: "Thai Restaurant"
+pluralName: "Thai Restaurants"
+shortName: "Thai"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/food/thai_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: false
+stats: {
+checkinsCount: 6371
+usersCount: 3907
+tipCount: 118
+}
+url: "http://www.qirestaurant.com"
+hasMenu: true
+ratingColor: "C7CDCF"
+delivery: {
+url: "http://www.seamless.com/food-delivery/restaurant.7509.r?a=1026&utm_source=Foursquare&utm_medium=affiliate&utm_campaign=SeamlessOrderDeliveryLink"
+provider: {
+name: "seamless"
+}
+}
+menu: {
+type: "Menu"
+label: "Menu"
+anchor: "View Menu"
+url: "https://foursquare.com/v/qi-esarn-thai-kitchen/4b4cb795f964a5209cbb26e3/menu"
+mobileUrl: "https://foursquare.com/v/4b4cb795f964a5209cbb26e3/device_menu"
+}
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+referralId: "v-1413063446"
+}
+{
+id: "52aa307a11d272d350dc23b9"
+name: "crosssroad wine and spirits"
+contact: { }
+location: {
+address: "52 W 14th St"
+lat: 40.73716354370117
+lng: -73.99552154541016
+distance: 6
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"52 W 14th St"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d186941735"
+name: "Liquor Store"
+pluralName: "Liquor Stores"
+shortName: "Liquor Store"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/shops/food_liquor_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: false
+stats: {
+checkinsCount: 2
+usersCount: 1
+tipCount: 0
+}
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+referralId: "v-1413063446"
+}
+{
+id: "4b782c26f964a520c2b92ee3"
+name: "Wet Seal"
+contact: { }
+location: {
+address: "42B W 14th St"
+crossStreet: "14th Street & 6th Ave"
+lat: 40.736933
+lng: -73.995629
+distance: 32
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"42B W 14th St (14th Street & 6th Ave)"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d108951735"
+name: "Women's Store"
+pluralName: "Women's Stores"
+shortName: "Women's Store"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/shops/apparel_women_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: false
+stats: {
+checkinsCount: 312
+usersCount: 235
+tipCount: 2
+}
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+referralId: "v-1413063446"
+}
+{
+id: "4b770b90f964a520ab772ee3"
+name: "Foot Locker"
+contact: {
+phone: "2122556481"
+formattedPhone: "(212) 255-6481"
+twitter: "footlocker"
+}
+location: {
+address: "58 W 14th St"
+lat: 40.737251052509805
+lng: -73.996313
+distance: 63
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"58 W 14th St"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d107951735"
+name: "Shoe Store"
+pluralName: "Shoe Stores"
+shortName: "Shoes"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/shops/apparel_shoestore_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: true
+stats: {
+checkinsCount: 571
+usersCount: 482
+tipCount: 2
+}
+url: "http://footlocker.com"
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+storeId: ""
+referralId: "v-1413063446"
+}
+{
+id: "4b2a728cf964a5205ba924e3"
+name: "Popeye's"
+contact: {
+phone: "2122068405"
+formattedPhone: "(212) 206-8405"
+}
+location: {
+address: "49 W 14th St"
+crossStreet: "btwn 5th & 6th Ave."
+lat: 40.737004339973076
+lng: -73.99596435805205
+distance: 41
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"49 W 14th St (btwn 5th & 6th Ave.)"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4d4ae6fc7a7b7dea34424761"
+name: "Fried Chicken Joint"
+pluralName: "Fried Chicken Joints"
+shortName: "Fried Chicken"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/food/friedchicken_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: false
+stats: {
+checkinsCount: 1371
+usersCount: 925
+tipCount: 9
+}
+url: "http://www.popeyes.com"
+hasMenu: true
+ratingColor: "C7CDCF"
+menu: {
+type: "Menu"
+label: "Menu"
+anchor: "View Menu"
+url: "https://foursquare.com/v/popeyes/4b2a728cf964a5205ba924e3/menu"
+mobileUrl: "https://foursquare.com/v/4b2a728cf964a5205ba924e3/device_menu"
+}
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+referralId: "v-1413063446"
+}
+{
+id: "4aef65a8f964a5201cd821e3"
+name: "PhotoManhattan"
+contact: {
+phone: "2129293302"
+formattedPhone: "(212) 929-3302"
+twitter: "photomanhattan"
+facebook: "63121263840"
+facebookUsername: "photomanhattan"
+facebookName: "PhotoManhattan"
+}
+location: {
+address: "51 W 14th St Apt 2R"
+crossStreet: "5th & 6th Avenues"
+lat: 40.737113296289046
+lng: -73.99590697046023
+distance: 31
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"51 W 14th St Apt 2R (5th & 6th Avenues)"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d13b941735"
+name: "School"
+pluralName: "Schools"
+shortName: "School"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/building/school_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: true
+stats: {
+checkinsCount: 366
+usersCount: 170
+tipCount: 3
+}
+url: "http://www2.photomanhattan.com"
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+venuePage: {
+id: "33780319"
+}
+storeId: "18218432"
+referralId: "v-1413063446"
+}
+{
+id: "4bc9c5f4b6c49c7461e98e91"
+name: "Bo Law Kung Fu"
+contact: {
+phone: "2129253339"
+formattedPhone: "(212) 925-3339"
+twitter: "bolawkungfu"
+}
+location: {
+address: "69 W 14th St"
+crossStreet: "5th & 6th Ave"
+lat: 40.73729113396678
+lng: -73.99641752243042
+distance: 72
+postalCode: "10014"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"69 W 14th St (5th & 6th Ave)"
+"New York, NY 10014"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d101941735"
+name: "Martial Arts Dojo"
+pluralName: "Martial Arts Dojos"
+shortName: "Martial Arts"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/shops/gym_martialarts_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: true
+stats: {
+checkinsCount: 2387
+usersCount: 112
+tipCount: 5
+}
+url: "http://www.bolawkungfu.com/blkf/"
+hasMenu: true
+ratingColor: "C7CDCF"
+menu: {
+type: "Classes"
+label: "Classes"
+anchor: "View Classes"
+url: "https://foursquare.com/v/bo-law-kung-fu/4bc9c5f4b6c49c7461e98e91/menu"
+mobileUrl: "https://foursquare.com/v/4bc9c5f4b6c49c7461e98e91/device_menu"
+}
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+venuePage: {
+id: "41879916"
+}
+storeId: ""
+referralId: "v-1413063446"
+}
+{
+id: "532f1fc4498ec51f0661048c"
+name: "Kinetic Healing Arts"
+contact: { }
+location: {
+lat: 40.737109
+lng: -73.995487
+distance: 13
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"New York, NY"
+]
+}
+categories: [
+{
+id: "52f2ab2ebcbc57f1066b8b3c"
+name: "Massage Studio"
+pluralName: "Massage Studios"
+shortName: "Massage Studio"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/shops/spa_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: false
+stats: {
+checkinsCount: 2
+usersCount: 2
+tipCount: 0
+}
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+referralId: "v-1413063446"
+}
+{
+id: "4b33d6fbf964a520532025e3"
+name: "St. Francis Xavier Catholic Church"
+contact: {
+phone: "2122437011"
+formattedPhone: "(212) 243-7011"
+}
+location: {
+address: "46 W 16th St"
+crossStreet: "btwn 5th & 6th Ave"
+lat: 40.73792515219813
+lng: -73.99547656297395
+distance: 79
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"46 W 16th St (btwn 5th & 6th Ave)"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d132941735"
+name: "Church"
+pluralName: "Churches"
+shortName: "Church"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/building/religious_church_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: false
+stats: {
+checkinsCount: 2477
+usersCount: 959
+tipCount: 11
+}
+url: "http://www.sfxavier.org"
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+referralId: "v-1413063446"
+}
+{
+id: "53a886d3498ed84e539e3e72"
+name: "BFX Studio"
+contact: { }
+location: {
+address: "555 Sixth Avenue"
+lat: 40.73844132654334
+lng: -73.99629146699729
+distance: 149
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"555 Sixth Avenue"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d175941735"
+name: "Gym / Fitness Center"
+pluralName: "Gyms or Fitness Centers"
+shortName: "Gym / Fitness"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/building/gym_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: false
+stats: {
+checkinsCount: 378
+usersCount: 193
+tipCount: 4
+}
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+referralId: "v-1413063446"
+}
+{
+id: "4b3d0277f964a520dd8b25e3"
+name: "Rising Dragon Tattoos NYC"
+contact: {
+phone: "2122558288"
+formattedPhone: "(212) 255-8288"
+facebook: "146035383323"
+}
+location: {
+address: "51 W 14th St"
+crossStreet: "Btwn 5 & 6 Avenues, 2nd Floor"
+lat: 40.73708503988839
+lng: -73.99616521448809
+distance: 52
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"51 W 14th St (Btwn 5 & 6 Avenues, 2nd Floor)"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d1de931735"
+name: "Tattoo Parlor"
+pluralName: "Tattoo Parlors"
+shortName: "Tattoo"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/shops/tattoos_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: true
+stats: {
+checkinsCount: 692
+usersCount: 440
+tipCount: 10
+}
+url: "http://www.risingdragon.com"
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+venuePage: {
+id: "65238220"
+}
+storeId: ""
+referralId: "v-1413063446"
+}
+{
+id: "43c3515ef964a520512d1fe3"
+name: "Guitar Center"
+contact: {
+phone: "2124637500"
+formattedPhone: "(212) 463-7500"
+}
+location: {
+address: "25 W 14th Street"
+crossStreet: "btwn 5th Ave. & 6th Ave."
+lat: 40.736628
+lng: -73.995104
+distance: 76
+postalCode: "10011"
+cc: "US"
+city: "Manhattan"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"25 W 14th Street (btwn 5th Ave. & 6th Ave.)"
+"Manhattan, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d1fe941735"
+name: "Music Store"
+pluralName: "Music Stores"
+shortName: "Music Store"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/shops/music_instruments_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: true
+stats: {
+checkinsCount: 7267
+usersCount: 3890
+tipCount: 22
+}
+url: "http://stores.guitarcenter.com/Manhattan?source=4MI4HSBA"
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+referralId: "v-1413063446"
+}
+{
+id: "4bca4c2fcc8cd13a5e78bdcf"
+name: "PMT Dance Studio"
+contact: {
+phone: "2129245694"
+formattedPhone: "(212) 924-5694"
+twitter: "pmtdancestudio"
+}
+location: {
+address: "69 W 14th St, Fl 3"
+crossStreet: "at 6th Ave."
+lat: 40.737271
+lng: -73.996622
+distance: 89
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"69 W 14th St, Fl 3 (at 6th Ave.)"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d1f1931735"
+name: "General Entertainment"
+pluralName: "General Entertainment"
+shortName: "Entertainment"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: true
+stats: {
+checkinsCount: 2504
+usersCount: 532
+tipCount: 14
+}
+url: "http://www.pmthouseofdance.com"
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+referralId: "v-1413063446"
+}
+{
+id: "4cc834563477b60c73627a6a"
+name: "Photo Manhattan"
+contact: {
+phone: "2129293302"
+formattedPhone: "(212) 929-3302"
+}
+location: {
+address: "51 W 14th St"
+crossStreet: "6th Ave"
+lat: 40.737366
+lng: -73.995956
+distance: 37
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"51 W 14th St (6th Ave)"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d1e2931735"
+name: "Art Gallery"
+pluralName: "Art Galleries"
+shortName: "Art Gallery"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: false
+stats: {
+checkinsCount: 505
+usersCount: 210
+tipCount: 1
+}
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+referralId: "v-1413063446"
+}
+{
+id: "4aabee75f964a520035b20e3"
+name: "Wigs & Plus"
+contact: {
+phone: "2126754129"
+formattedPhone: "(212) 675-4129"
+twitter: "123wigs"
+}
+location: {
+address: "37 W 14th St"
+crossStreet: "btwn 5th & 6th"
+lat: 40.736751526718
+lng: -73.99552247315187
+distance: 51
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"37 W 14th St (btwn 5th & 6th)"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d10c951735"
+name: "Cosmetics Shop"
+pluralName: "Cosmetics Shops"
+shortName: "Cosmetics"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/shops/beauty_cosmetic_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: true
+stats: {
+checkinsCount: 465
+usersCount: 324
+tipCount: 3
+}
+url: "http://123wigs.com"
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+storeId: ""
+referralId: "v-1413063446"
+}
+{
+id: "514c65cde4b0e652ebac0161"
+name: "Base Physical Therapy"
+contact: {
+phone: "9175334535"
+formattedPhone: "(917) 533-4535"
+twitter: "baseptnyc"
+}
+location: {
+address: "47 West 14th St. 5th Floor"
+crossStreet: "6th Ave"
+lat: 40.73704065675733
+lng: -73.99594140301738
+distance: 37
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"47 West 14th St. 5th Floor (6th Ave)"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4f4528bc4b90abdf24c9de85"
+name: "Athletics & Sports"
+pluralName: "Athletics & Sports"
+shortName: "Athletics & Sports"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/shops/sports_outdoors_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: true
+stats: {
+checkinsCount: 45
+usersCount: 4
+tipCount: 0
+}
+url: "http://basept.net"
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+venuePage: {
+id: "51855375"
+}
+storeId: ""
+referralId: "v-1413063446"
+}
+{
+id: "4f6a79b3e4b0454e8472c9c9"
+name: "Toosh"
+contact: {
+phone: "6465969297"
+formattedPhone: "(646) 596-9297"
+twitter: "tooshnyc"
+}
+location: {
+address: "46 W 14th St, New York, NY 10011"
+lat: 40.737061321434986
+lng: -73.99580367275166
+distance: 26
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"46 W 14th St, New York, NY 10011"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4bf58dd8d48988d107951735"
+name: "Shoe Store"
+pluralName: "Shoe Stores"
+shortName: "Shoes"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/shops/apparel_shoestore_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: true
+stats: {
+checkinsCount: 39
+usersCount: 39
+tipCount: 0
+}
+url: "http://www.tooshexpress.com/shop/"
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+venuePage: {
+id: "77459293"
+}
+storeId: ""
+referralId: "v-1413063446"
+}
+{
+id: "4fe9091ce4b00ce5397239c6"
+name: "the yangilinsawa"
+contact: { }
+location: {
+address: "buruburu"
+lat: 40.73689142875008
+lng: -73.9956946362211
+distance: 37
+postalCode: "10011"
+cc: "US"
+city: "New York"
+state: "NY"
+country: "United States"
+formattedAddress: [
+"buruburu"
+"New York, NY 10011"
+]
+}
+categories: [
+{
+id: "4d954b06a243a5684965b473"
+name: "Residential Building (Apartment / Condo)"
+pluralName: "Residential Buildings (Apartments / Condos)"
+shortName: "Residential"
+icon: {
+prefix: "https://ss3.4sqi.net/img/categories_v2/building/apartment_"
+suffix: ".png"
+}
+primary: true
+}
+]
+verified: false
+stats: {
+checkinsCount: 315
+usersCount: 16
+tipCount: 3
+}
+ratingColor: "C7CDCF"
+specials: {
+count: 0
+items: [ ]
+}
+hereNow: {
+count: 0
+summary: "Nobody here"
+groups: [ ]
+}
+referralId: "v-1413063446"
+}
+]
+confident: false
+}
+}

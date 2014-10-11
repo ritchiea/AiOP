@@ -1,0 +1,16 @@
+.container .loader {
+  display: inline;
+  margin-left: 10px;
+}
+
+.container .loader img {
+  display: inline;
+}
+
+.table-container {
+  margin-top: 8px;
+}
+
+h1 {
+  margin-bottom: 25px !important;
+}
