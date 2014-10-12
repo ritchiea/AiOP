@@ -1,5 +1,4 @@
 require 'twitter'
-require 'active_support/time_with_zone'
 #require 'dotenv'
 
 class TwitterClient
