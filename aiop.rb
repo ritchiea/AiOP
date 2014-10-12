@@ -1,13 +1,13 @@
 require 'twitter'
 require 'active_support/time_with_zone'
-require 'dotenv'
+#require 'dotenv'
 
 class TwitterClient
 
   attr_accessor :data, :results
 
   def initialize
-    Dotenv.load
+    #Dotenv.load
     @client = Twitter::REST::Client.new do |config|
       config.consumer_key        = ENV['CONSUMER_KEY']
       config.consumer_secret     = ENV['CONSUMER_SECRET']
